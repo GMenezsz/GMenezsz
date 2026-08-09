@@ -27,14 +27,6 @@ Estudante de **Tecnologia da Informação** focado no desenvolvimento **Backend*
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GMenezsz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 - **LinkedIn:** [Gabriel Menezes](https://www.linkedin.com/in/gabriel-menezes-9367793a1/)
