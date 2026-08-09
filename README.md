@@ -1,6 +1,6 @@
 # GMenezsz
 
-### Olá, Meu nome é Gabriel Menezes! 👋
+### Olá! Meu nome é Gabriel Menezes! 👋
 
 Estudante de **Tecnologia da Informação** focado no desenvolvimento **Backend**. Atualmente estou aprimorando meus conhecimentos práticos em automação, modelagem de dados e construção de sistemas robustos.
 
