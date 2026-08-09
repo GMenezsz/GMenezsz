@@ -11,7 +11,6 @@ Estudante de **Tecnologia da Informação** focado no desenvolvimento **Backend*
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </div>
 
@@ -24,7 +23,7 @@ Estudante de **Tecnologia da Informação** focado no desenvolvimento **Backend*
 ### 🚀 Meus Projetos em Destaque
 
 - **[SecureBank](https://github.com/GMenezsz/SecureBank):** Sistema de gerenciamento bancário em console desenvolvido em Python, focado em boas práticas de segurança, validação rigorosa de dados com criptografia de senha (hash) e persistência com SQLite.
-- **[Processador de Vendas](https://github.com/GMenezsz/Automacao-de-Planilhas-Excel):** Sistema em Python para automação de leitura, processamento e exportação de dados de planilhas Excel (`.xlsx`) integrado com banco de dados SQLite utilizando Pandas.
+- **[Automação de Planilhas](https://github.com/GMenezsz/Automacao-de-Planilhas-Excel):** Sistema em Python para automação de leitura, processamento e exportação de dados de planilhas Excel (`.xlsx`) integrado com banco de dados SQLite utilizando Pandas.
 
 ---
 
