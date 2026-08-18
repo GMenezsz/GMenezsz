@@ -1,33 +1,50 @@
-# GMenezsz
+<div align="center">
+  <h1>Olá, mundo! 👋 Eu sou o Gabriel Menezes</h1>
+  <p><b>Estudante de Tecnologia da Informação | Desenvolvedor Backend</b></p>
+</div>
 
-### Olá! Meu nome é Gabriel Menezes! 👋
+---
 
-Estudante de **Tecnologia da Informação** focado no desenvolvimento **Backend**. Atualmente estou aprimorando meus conhecimentos práticos em automação, modelagem de dados e construção de sistemas robustos.
+### 💻 Sobre mim
+Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas robustos e seguros. Atualmente, estou expandindo meus conhecimentos em criação de APIs eficientes e automação de processos.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-- **Linguagem:** Python
-- **Banco de Dados:** SQLite, SQL
-- **Segurança & Boas Práticas:** Bcrypt (Hash de senhas), Validação de dados
+* **Linguagem:** Python
+* **Frameworks & APIs:** FastAPI, Uvicorn
+* **Banco de Dados:** SQLite, SQL
+* **Manipulação de Dados:** Pandas
+* **Segurança & Boas Práticas:** Bcrypt (Hash de senhas), Validação de dados (Pydantic)
 
 ---
 
-### 🚀 Meus Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-- **[SecureBank](https://github.com/GMenezsz/SecureBank):** Sistema de gerenciamento bancário em console desenvolvido em Python, focado em boas práticas de segurança, validação rigorosa de dados com criptografia de senha (hash) e persistência com SQLite.
-- **[Automação de Planilhas](https://github.com/GMenezsz/Automacao-de-Planilhas-Excel):** Sistema em Python para automação de leitura, processamento e exportação de dados de planilhas Excel (`.xlsx`) integrado com banco de dados SQLite utilizando Pandas.
+* **🧮 Calculadora de Financiamento (FastAPI)**
+  * API desenvolvida em Python com FastAPI para cálculo de financiamentos, contando com validações de regras de negócio personalizadas e separação de módulos.
+* **🏦 SecureBankAPI**
+  * Sistema bancário desenvolvido em Python focado em segurança, criptografia de senhas (hash) e persistência de dados com SQLite.
+* **📊 Automação de Planilhas**
+  * Sistema em Python para automação de leitura, processamento e exportação de planilhas Excel (`.xlsx`) integrado com banco de dados usando Pandas.
 
 ---
 
 ### 📫 Conecte-se comigo
 
-- **LinkedIn:** [Gabriel Menezes](https://www.linkedin.com/in/gabriel-menezes-9367793a1/)
-- **E-mail:** gabriel26guedes@gmail.com
+* **LinkedIn:** [Gabriel Menezes](https://www.linkedin.com/in/gabriel-menezes-9367793a1/?skipRedirect=true)
+* **E-mail:** gabriel26guedes@gmail.com
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GMenezsz&color=blueviolet&style=flat-square" alt="Contador de visitas" />
+</div>
