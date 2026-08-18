@@ -46,6 +46,3 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 * **LinkedIn:** [Gabriel Menezes](https://www.linkedin.com/in/gabriel-menezes-9367793a1/?skipRedirect=true)
 * **E-mail:** gabriel26guedes@gmail.com
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GMenezsz&color=blueviolet&style=flat-square" alt="Contador de visitas" />
-</div>
