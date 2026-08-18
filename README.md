@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, mundo! 👋 Eu sou o Gabriel Menezes</h1>
+  <h1>Olá, mundo! 👋 Me chamo Gabriel Menezes</h1>
   <p><b>Estudante de Tecnologia da Informação | Desenvolvedor Backend</b></p>
 </div>
 
