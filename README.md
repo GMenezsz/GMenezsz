@@ -30,8 +30,8 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 
 ### 🚀 Projetos em Destaque
 
-* **🧮 Calculadora de Financiamento (FastAPI)**
-  * API desenvolvida em Python com FastAPI para cálculo de financiamentos, contando com validações de regras de negócio personalizadas e separação de módulos.
+* **🧮 Calculadora Inteligente (FastAPI)**
+  * Projetada para processar operações lógicas e de cálculo de forma rápida, eficiente e automatizada.
   
 * **🏦 SecureBankAPI**
   * Sistema bancário desenvolvido em Python focado em segurança, criptografia de senhas (hash) e persistência de dados com SQLite.
