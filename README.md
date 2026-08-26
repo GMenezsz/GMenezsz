@@ -30,13 +30,13 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 
 ### 🚀 Projetos em Destaque
 
-* **🧮 Calculadora Inteligente (FastAPI)**
+* **🧮<a href= "https://calculadora-inteligente-sigma.vercel.app/">Calculadora Inteligente (FastAPI)</a>**
   * Projetada para processar operações lógicas e de cálculo de forma rápida, eficiente e automatizada.
   
-* **🏦 SecureBankAPI**
+* **🏦<a href= "https://github.com/GMenezsz/SecureBankAPI">SecureBankAPI</a>**
   * Sistema bancário desenvolvido em Python focado em segurança, criptografia de senhas (hash) e persistência de dados com SQLite.
   
-* **📊 Automação de Planilhas**
+* **📊<a href= "https://github.com/GMenezsz/Automacao-de-Planilha">Automação de Planilhas</a>**
   * Sistema em Python para automação de leitura, processamento e exportação de planilhas Excel (`.xlsx`) integrado com banco de dados usando Pandas.
 
 ---
