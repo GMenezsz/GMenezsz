@@ -22,7 +22,7 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 
 * **Linguagem:** Python
 * **Frameworks & APIs:** FastAPI, Uvicorn
-* **Banco de Dados:** SQLite, SQL
+* **Banco de Dados:** SQLite
 * **Manipulação de Dados:** Pandas
 * **Segurança & Boas Práticas:** Bcrypt (Hash de senhas), Validação de dados (Pydantic)
 
