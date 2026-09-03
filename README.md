@@ -32,9 +32,9 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 
 * **🧮<a href= "https://calculadora-inteligente-sigma.vercel.app/">Calculadora Inteligente (FastAPI)</a>**
   * Projetada para processar operações lógicas e de cálculo de forma rápida, eficiente e automatizada.
- 
-  **🪪<a href= "https://github.com/GMenezsz/Nexus-API">Nexus - Controle Financeiro API</a>**
-   *Sistema de controle financeiro com banco de dados SQLite e criptografia de senhas (hash).
+
+* **🪪<a href= "https://github.com/GMenezsz/Nexus-API">Nexus - Controle Financeiro API</a>**
+  * Sistema de controle financeiro com banco de dados SQLite e criptografia de senhas (hash).
   
 * **🏦<a href= "https://github.com/GMenezsz/SecureBankAPI">SecureBankAPI</a>**
   * Sistema bancário desenvolvido em Python focado em segurança, criptografia de senhas (hash) e persistência de dados com SQLite.
