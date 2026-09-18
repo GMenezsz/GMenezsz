@@ -39,7 +39,7 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 * **🏦 <a href= "https://github.com/GMenezsz/SecureBankAPI">SecureBank (FastAPI)</a>**
   * Sistema bancário desenvolvido em Python focado em segurança, criptografia de senhas (hash) e persistência de dados com SQLite.
   
-* **📊 <a href= "">...</a>**
+* ** <a href= "https://github.com/GMenezsz">Em desenvolvimento...</a>**
   * ...
 
 ---
