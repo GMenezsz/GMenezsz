@@ -39,10 +39,10 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 * **🏦 <a href= "https://github.com/GMenezsz/SecureBankAPI">SecureBank (FastAPI)</a>**
   * Sistema bancário desenvolvido em Python focado em segurança, criptografia de senhas (hash) e persistência de dados com SQLite.
   
-* **🏦 <a href= "https://github.com/GMenezsz/Painel-de-Vendas">Painel de Vendas</a>**
+* **📊  <a href= "https://github.com/GMenezsz/Painel-de-Vendas">Painel de Vendas</a>**
   * Um painel de Business Intelligence (BI) interativo e moderno desenvolvido em Python , utilizando Pandas para o pipeline de dados (ETL) e Streamlit junto com Plotly para a interface web de visualização.
 
-* **🏦 <a href= "https://github.com/GMenezsz/ETL-com-Streamlit">ETL com Streamlit</a>**
+* **📊  <a href= "https://github.com/GMenezsz/ETL-com-Streamlit">ETL com Streamlit</a>**
   * Projeto desenvolvido para automação de análise de dados corporativos e visualização em interface web interativa, aplicando boas práticas de manipulação de dados, agrupamentos, filtros e engenharia de dados.
 ---
 
