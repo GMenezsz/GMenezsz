@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, mundo! 👋 Me chamo Gabriel Menezes</h1>
-  <p><b>Estudante de Tecnologia da Informação | Desenvolvedor Backend</b></p>
+  <p><b>Estudante de Tecnologia da Informação | Python Developer</b></p>
 </div>
 
 ---
