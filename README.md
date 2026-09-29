@@ -6,7 +6,7 @@
 ---
 
 ### 💻 Sobre mim
-Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas robustos e seguros. Atualmente, estou expandindo meus conhecimentos em criação de APIs eficientes e automação de processos.
+Sou desenvolvedor Python com foco em automação, análise de dados e desenvolvimento de soluções. Trabalho com SQL, Pandas, Streamlit e FastAPI para construir processos de ETL, aplicações web e ferramentas voltadas para tratamento, organização e visualização de dados.
 
 ---
 
@@ -22,9 +22,8 @@ Focado no desenvolvimento Backend, modelagem de dados e construção de sistemas
 
 * **Linguagem:** Python
 * **Frameworks & APIs:** FastAPI, Uvicorn
-* **Banco de Dados:** SQLite
-* **Manipulação de Dados:** Pandas
-* **Segurança & Boas Práticas:** Bcrypt (Hash de senhas), Validação de dados (Pydantic)
+* **Banco de Dados:** SQLite, SQL
+* **Manipulação de Dados:** Pandas, Excel
 
 ---
 
