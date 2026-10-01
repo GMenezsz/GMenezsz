@@ -21,7 +21,7 @@ Sou desenvolvedor Python com foco em automação, análise de dados e desenvolvi
 </p>
 
 * **Linguagem:** Python
-* **Frameworks & APIs:** FastAPI, Uvicorn
+* **Frameworks & APIs:** FastAPI
 * **Banco de Dados:** SQLite, SQL
 * **Manipulação de Dados:** Pandas, Excel
 
